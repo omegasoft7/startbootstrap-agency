@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Agency Preview](https://startbootstrap.com/assets/img/screenshots/themes/agency.png)](https://blackrockdigital.github.io/startbootstrap-agency/)
+[![Agency Preview](https://startbootstrap.com/assets/img/screenshots/themes/agency.png)](https://omegasoft7.github.io/startbootstrap-agency/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
+**[View Live Preview](https://omegasoft7.github.io/startbootstrap-agency/)**
 
 ## Status
 
